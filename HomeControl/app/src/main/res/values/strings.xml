@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeControl</string>
+    <string name="username_hint">   Uživatelské jméno</string>
+    <string name="password_hint">   Heslo</string>
+    <string name="login">Přihlásit se</string>
+    <string name="test">Hello World</string>
+    <string name="menuButtonDescription">menuButton</string>
+    <string name="addTagButtonDescription">addTagButton</string>
+    <string name="tagListTitle">Moje samolepky</string>
+    <string name="tagName">Název samolepky</string>
+    <string name="writeInfoFalse">Samolepka není vytvořena</string>
+    <string name="writeInfoTrue">Samolepka vytvořena</string>
+    <string name="loadTag">Nahrát samolepku</string>
+    <string name="btnBack">Zrušit</string>
+    <string name="delete_tag_button">delete_tag_button</string>
+    <string name="manage_tag_button">manage_tag_button</string>
+    <string name="my_tags">Moje tagy</string>
+    <string name="wrong_username_or_password_message">Chybné jméno nebo heslo!</string>
+</resources>
